@@ -1,5 +1,5 @@
 # Sistem-Pakar-THT
-Membuat Aplikasi Sistem Pakar THT dengan Metode Forward Chaining
+Membuat Aplikasi Sistem Pakar THT dengan Metode Certainty Factor
 
 # Tutorial Build with Android Studio
 https://youtu.be/EaTCZXE4ElA
